@@ -1,0 +1,2 @@
+IDC_KEYWORD3_FONT_COMBO, IDC_KEYWORD3_FONTSIZE_COMBO,
+buffer[samplesleft - WindowSizeInt-2]);
