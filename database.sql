@@ -1,0 +1,1 @@
+linked_list.append(1)
